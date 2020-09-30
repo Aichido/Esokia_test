@@ -1,0 +1,283 @@
+body {
+  font-size: initial;
+  width: 100%;
+}
+
+.nav {
+
+  color: #000;
+  font-size: 18px;
+  font-family: Regular;
+}
+
+nav.img {
+  width: 100%;
+  height: 700px;
+  background-size: auto;
+}
+
+.logo {
+  width: 0150px;
+}
+
+.first {
+  background-image: url("/image/dog.jpg");
+  background-size: cover;
+  width: auto;
+  height: 700px;
+}
+
+#navbarColor01 {
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+}
+
+.presentation {
+  margin-left: 200px;
+  color: #fff;
+}
+
+.x {
+  font-size: 60px;
+}
+
+h9 {
+  font-size: 2.5rem;
+  font-family: "Century Gothic";
+  color: blue;
+}
+
+h1 {
+  padding-top: 200px;
+  font-family: "Century Gothic";
+  color: #fff;
+}
+
+h2 {
+  font-family: "Century Gothic";
+  font-weight: bolder;
+  font-size: 10px;
+}
+
+.card-img-top {
+  height: 200px;
+}
+
+h6 {
+  position: absolute;
+  top: 90px;
+  left: 100px;
+  font-weight: bolder;
+}
+
+article {
+  position: absolute;
+  top: 120px;
+  left: 60px;
+}
+
+.s2 {
+  color: #000;
+}
+
+.second {
+  text-align: center;
+}
+
+.rond {
+  width: 320px;
+  height: 300px;
+}
+
+.option1 {
+  font-size: 12px;
+}
+
+.option1 article {
+  font-size: 12px;
+}
+
+.container {
+  text-align: center;
+  color: #000;
+}
+
+.cent {
+  text-align: center;
+}
+
+.ecran {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: -20px;
+  left: 135px;
+}
+
+.nav-link {
+  color: #fff;
+  margin-left: 30px;
+}
+
+.third {
+  background-image: url(/image/laptop.jpg);
+  background-size: cover;
+  padding-bottom: 3rem;
+}
+
+.direction {
+  width: 3%;
+  height: 3%;
+}
+
+.formulaire {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.footer {
+  width: 100%;
+  height: 300px;
+  background-color: #2f2f33;
+  display: flex;
+  justify-content: center;
+}
+
+.footer1 {
+  width: 70%;
+  color: #fff;
+  padding-top: 3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+a {
+
+  border-style: none;
+  color: skyblue !important;
+  text-decoration: none;
+}
+
+
+.info {
+  padding-left: 70%;
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  color: #fff;
+}
+
+.carte {
+  position: relative;
+  left: 150px;
+}
+
+p input {
+  width: 450px;
+  text-align: center;
+  border-radius: 12;
+}
+
+
+ul li {
+  list-style-type: none;
+  color: #fff;
+}
+
+.tab {
+  width: 755px;
+  height: 786px;
+}
+
+.t1 {
+  margin: 1rem 0;
+}
+.t2 {
+  margin: 1rem 0;
+}
+
+.p2{
+  margin-top: 3rem;
+}
+.fourth {
+
+  width: 100%;
+  text-align: left center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  background-color: #25255d;
+  color: #fff;
+}
+.col-6{
+  text-align: left ;
+}
+
+
+.sar {
+  width: 70%;
+}
+
+.sor1 {
+  background-image: url(../image/tab.png);
+  height: 419px;
+  width: 50%;
+
+
+
+}
+
+.sor1 img {
+  margin: 0;
+  padding: 0;
+}
+
+.sor2 {
+  width: 50%;
+
+  background-color: silver;
+  text-align: left;
+  display: flex;
+  align-items: center;
+
+
+}
+
+ul.s1 li {
+  padding-bottom: 10px;
+}
+
+.s1 {
+  text-align: left;
+}
+
+.col1 col1-1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.col1-1 {
+  margin: 0 0 7% 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.f4 {
+  text-transform: uppercase;
+}
+
+.but {
+  width: 100px;
+  background-color: rgb(125, 248, 1);
+  padding: 10px;
+  border-radius: 10px;
+  color: #fff!important;
+}
+a{
+  text-decoration: none;
+}
