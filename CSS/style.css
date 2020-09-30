@@ -21,7 +21,7 @@ nav.img {
 }
 
 .first {
-  background-image: url("/image/dog.jpg");
+  background-image: url("../image/dog.jpg");
   background-size: cover;
   width: auto;
   height: 700px;
@@ -121,7 +121,7 @@ article {
 }
 
 .third {
-  background-image: url(/image/laptop.jpg);
+  background-image: url(../image/laptop.jpg);
   background-size: cover;
   padding-bottom: 3rem;
 }
